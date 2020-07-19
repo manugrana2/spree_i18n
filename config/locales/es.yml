@@ -516,6 +516,10 @@ es:
     card_type: Tipo de Tarjeta
     card_type_is: Tipo de tarjeta es
     cart: Carrito
+    cart_page:
+      empty_info: Tu carrito de compras está vacío
+      header: Tu carro de Compras
+      title: Mi carrito
     cart_subtotal: Subtotal del carrito
     categories: Categorías
     category: Categoría
@@ -556,11 +560,20 @@ es:
     country_based: País base
     country_name: Nombre
     country_names:
+      AR: Argentina
+      BO: Bolivia
       CA: Canadá
+      CL: Chile
+      CO: Colombia
+      CR: Costa Rica
+      EC: Ecuador
       FRA: Francia
       ITA: Italia
+      MX: México
       PA: Panamá
+      PE: Perú
       US: Estados Unidos
+      VE: Venezuela
     coupon: Cupón
     coupon_code: Código Cupón
     coupon_code_apply: Aplicar
@@ -632,6 +645,7 @@ es:
     display: Mostrar
     display_currency: Moneda a mostrar
     doesnt_track_inventory: No mantiene inventario
+    dont_have_account: ¿No tienes un cuenta?
     edit: Editar
     editing_resource: Editando Recurso
     editing_rma_reason: Razón de editar el RMA
@@ -714,12 +728,16 @@ es:
     general_settings: Preferencias en general
     google_analytics: Google Analytics
     google_analytics_id: ID Analytics
+    go_to_category: Ir a categoría
     guest_checkout: Comprobación Invitado
     guest_user_account: Comprobación como invitado
     has_no_shipped_units: No tiene unidades enviadas
     height: Altura
     hide_cents: Ocultar céntimos
     home: Inicio
+    homepage:
+      shop_now: Comprar ahora
+      read_more: Leer más
     i18n:
       available_locales: Locales Disponibles
       language: Idioma
@@ -784,6 +802,8 @@ es:
     location: Localización
     lock: Bloquear
     log_entries: "Log Entries"
+    log_in: Iniciar Sesión
+    log_in_to_continue: Inicia sesión para continuar
     logged_in_as: Identificado como
     logged_in_succesfully: Conectado con éxito
     logged_out: Se ha cerrado la sesión.
@@ -1209,6 +1229,7 @@ es:
     server: Servidor
     server_error: El servidor devolvió un error
     settings: Preferencias
+    sign_up: Registrarse
     ship: Enviar
     ship_address: Dirección de envío
     ship_total: Total de envío
