@@ -587,6 +587,7 @@ es-CO:
     coupon_code_max_usage: Excedido el limite de uso del código del cupón
     coupon_code_not_eligible: Este código de cupón no es elegible para este pedido
     coupon_code_not_found: El código del cupón que has introducido no existe. Inténtalo de nuevo.
+    coupon_code_removed: Cupón eliminado
     coupon_code_unknown_error: Error desconocido con el código del cupón. Intente nuevamente.
     create: Crear
     create_a_new_account: Crear una nueva cuenta
@@ -733,6 +734,7 @@ es-CO:
     guest_checkout: Comprobación Invitado
     guest_user_account: Comprobación como invitado
     has_no_shipped_units: No tiene unidades enviadas
+    already_have_account: ¿Tienes ya una cuenta?
     height: Altura
     hide_cents: Ocultar céntimos
     home: Inicio
