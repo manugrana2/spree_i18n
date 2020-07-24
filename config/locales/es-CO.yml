@@ -80,6 +80,7 @@ es-CO:
         cost_price: Precio de coste
         description: Descripción
         discontinue_on: Descontinuar desde
+        less_than: Menor que
         master_price: Precio maestro
         name: Nombre
         on_hand: Disponible
