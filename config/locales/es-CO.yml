@@ -304,7 +304,7 @@ es-CO:
       confirmation_instructions:
         subject: Instrucciones de confirmación
       reset_password_instructions:
-        subject: Instrucciones para reinicializar el password
+        subject: Instrucciones para reinicializar la contraseña
       unlock_instructions:
         subject: Instrucciones de desbloqueo
     oauth_callbacks:
@@ -315,9 +315,9 @@ es-CO:
       unlocked: Tu cuenta fue desbloqueada satisfactoriamente. Ya estás registrado.
     user_passwords:
       user:
-        cannot_be_blank: Tu password no puede estar en blanco
-        send_instructions: Recibiras un email con instrucciones sobre como reinicializar tu password en breves minutos
-        updated: Tu password fue cambiado con éxito. Ya estás registrado.
+        cannot_be_blank: Tu contraseña no puede estar en blanco
+        send_instructions: Recibiras un email con instrucciones sobre como reinicializar tu contraseña en breves minutos
+        updated: Tu contraseña fue cambiado con éxito. Ya estás registrado.
     user_registrations:
       destroyed: "¡Adiós! Tu cuenta fue cancelada satisfactoriamente. Esperamos volver a verte pronto."
       inactive_signed_up: Te has dado de alta satisfactoriamente. Sin embargo, no pudimos registrarte debido a que tu cuenta está %{reason}.
@@ -542,7 +542,7 @@ es-CO:
     configurations: Configuraciones
     confirm: Confirmar
     confirm_delete: Confimar borrado
-    confirm_password: Confirmación del Password
+    confirm_password: Confirmación de la contraseña
     continue: Continuar
     continue_shopping: Continuar compra
     cost_currency: Moneda de costo
@@ -703,7 +703,7 @@ es-CO:
     flat_percent: Porcentaje fijo
     flat_rate_per_order: Tarifa plana (por pedido)
     flexible_rate: Tarifa flexible
-    forgot_password: "¿Olvidaste el password?"
+    forgot_password: "¿Olvidaste tu contraseña?"
     free_shipping: Envío gratuito
     free_shipping_amount: Cantidad de envío gratuito
     front_end: Parte delantera
@@ -1153,7 +1153,7 @@ es-CO:
     report: Reporte
     reports: Informes
     resend: Reenviar
-    reset_password: Reinicializar password
+    reset_password: Reinicializar contraseña
     response_code: Código de respuesta
     resume: reanudar
     resumed: Reanudado
