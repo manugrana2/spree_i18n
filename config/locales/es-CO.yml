@@ -361,6 +361,7 @@ es-CO:
     add_action_of_type: Añadir acción del tipo
     add_country: Añadir País
     add_coupon_code: Agregar Código de Cupón
+    add_new_address: Añadir nueva dirección para recibir pedidos
     add_new_header: Añadir nueva cabecera
     add_new_style: Añadir nuevo estilo
     add_one: Añadir uno
@@ -1339,6 +1340,7 @@ es-CO:
     stop: Parar
     store: Tienda
     stores: Tiendas
+    store_credit_name: Crédito
     store_default: Tienda predeterminada
     store_set_default_button: Definir como predeterminada
     street_address: Calle
