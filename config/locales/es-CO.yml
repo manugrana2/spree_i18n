@@ -556,11 +556,25 @@ es-CO:
     country_based: País base
     country_name: Nombre
     country_names:
+      AR: Argentina
+      BO: Bolivia
       CA: Canadá
-      FRA: Francia
-      ITA: Italia
+      CL: Chile
+      CO: Colombia
+      CR: Costa Rica
+      DO: República Dominicana
+      ES: España
+      GT: Guatemala
+      HN: Honduras
+      MX: México
+      NI: Nicaragua
       PA: Panamá
+      PR: Perú
+      PY: Paraguay
+      SV: El Salvador
       US: Estados Unidos
+      UY: Uruguay
+      VE: Venezuela
     coupon: Cupón
     coupon_code: Código Cupón
     coupon_code_apply: Aplicar
