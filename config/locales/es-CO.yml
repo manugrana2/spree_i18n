@@ -1170,6 +1170,7 @@ es-CO:
     rename: Renombrar
     report: Reporte
     reports: Informes
+    required: Obligatorio
     resend: Reenviar
     reset_password: Reinicializar contraseña
     response_code: Código de respuesta
