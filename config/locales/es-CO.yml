@@ -5,11 +5,11 @@ es-CO:
         address1: Dirección
         address2: Dirección (cont.)
         city: Ciudad
-        country: Pais
+        country: Paìs
         firstname: Nombre
         lastname: Apellidos
         phone: Teléfono
-        state: Provincia o Estado
+        state: Departamento
         zipcode: Código Postal
       spree/calculator/tiered_flat_rate:
         preferred_base_amount: Monto Base
@@ -32,7 +32,7 @@ es-CO:
         year: Año
         name: Nombre
       spree/inventory_unit:
-        state: Provincia o Estado
+        state: Estado
       spree/line_item:
         price: Precio
         quantity: Cantidad
@@ -60,7 +60,7 @@ es-CO:
         firstname: Nombre dirección de facturación
         lastname: Apellidos dirección de facturación
         phone: Teléfono dirección facturación
-        state: Provincia dirección facturación
+        state: Departamento dirección facturación
         zipcode: Código postal dirección facturación
       spree/order/ship_address:
         address1: Calle dirección envío
@@ -68,7 +68,7 @@ es-CO:
         firstname: Nombre dirección envío
         lastname: Apellidos dirección envío
         phone: Teléfono dirección envío
-        state: Provincia dirección envío
+        state: Departamento dirección envío
         zipcode: Código postal dirección envío
       spree/payment:
         amount: Cuantía
@@ -139,8 +139,8 @@ es-CO:
         name: Nombre
       spree/user:
         email: Email
-        password: Password
-        password_confirmation: Confirmación del Password
+        password: Contraseña
+        password_confirmation: Confirmación la contraseña
       spree/variant:
         cost_currency: Moneda de coste
         cost_price: Precio de coste
@@ -260,8 +260,8 @@ es-CO:
         other: Categorías de envío
       spree/shipping_method:
       spree/state:
-        one: Provincia
-        other: Provincias
+        one: Departamento
+        other: Departamentos
       spree/state_change:
       spree/stock_location:
       spree/stock_movement:
@@ -294,7 +294,7 @@ es-CO:
       send_instructions: Recibirás un email con instrucciones sobre como confirmar tu cuenta en breves minutos.
     failure:
       inactive: Tu cuenta no fue activada todavía.
-      invalid: Email o password inválido.
+      invalid: Email o contraseña inválida.
       invalid_token: Cadena de autenticación inválida.
       locked: Tu cuenta está bloqueada
       timeout: Tu sesión expiró, por favor regístrate otra vez para continuar.
@@ -368,7 +368,7 @@ es-CO:
     add_product: Añadir producto
     add_product_properties: Añadir propiedades de producto
     add_rule_of_type: Añadir regla de tipo
-    add_state: Añadir provincia
+    add_state: Añadir departamento
     add_stock: Añadir Stock
     add_stock_management: Añadir gestión de stock
     add_store: Añadir tienda
@@ -398,7 +398,7 @@ es-CO:
       save: "Guardar"
     adjustable: Ajustable
     adjustment: Ajuste
-    adjustment_amount: Cuantía
+    adjustment_amount: Ajustar cantidad
     adjustment_labels:
       tax_rates:
         including_tax: '%{name}%{amount} (Incluído en el precio)'
@@ -855,7 +855,7 @@ es-CO:
     new_shipment_at_location: Nueva locación de remitente
     new_shipping_category: Nueva categoría de envío
     new_shipping_method: Nueva forma de envío
-    new_state: Nueva provincia
+    new_state: Nuevo Departamento
     new_stock_location: Nueva localización de stock
     new_stock_movement: Nuevo movimiento de stock
     new_stock_transfer: Nueva transferencia de stock
@@ -960,7 +960,7 @@ es-CO:
       next_page: siguiente página »
       previous_page: "« página anterior"
       truncate: "…"
-    password: Password
+    password: Contraseña
     paste: Pegar
     path: Ruta
     pay: pagar
@@ -1027,7 +1027,7 @@ es-CO:
     preferred_reimbursement_type: Método Preferido de Reembolso
     presentation: Presentación
     previous: Previo
-    previous_state_missing:
+    previous_state_missing: No hay estado anterior
     price: Precio
     price_range: Rango de precios
     price_sack: Saco de precios
@@ -1272,8 +1272,8 @@ es-CO:
     ssl:
       change_protocol: Cambiar Protocolo
     start: Empezar
-    state: Provincia
-    state_based: Estado basado
+    state: Departamento
+    state_based: Departamento basado
     state_machine_states:
       accepted: Aceptado
       address: Dirección
@@ -1306,8 +1306,8 @@ es-CO:
       returned: Retornado
       shipped: Enviado
       void: Nulo
-    states: Provincias
-    states_required: Provincias requeridas
+    states: Departamentos
+    states_required: Departamentos requeridos
     status: Estatus
     stock:
     stock_location: Localización de stock
